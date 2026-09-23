@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "4910e528abe9dd08e5e3d39d",
+  "owner": "qujuvbnxk",
+  "repo": "page-0fdc615fd0f65cf61ca1170f",
+  "title": "快狗云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0fdc615fd0f65cf61ca1170f",
+      "a": "快狗云",
+      "b": "机场官网线路发布页",
+      "entity": "快狗云",
+      "brand": "快狗云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a1f1dbfc9b9434fd0e1da789403a3133e48cac62cff0e279d03161bd3ce02d94",
+      "content": {
+        "primary_entity": "快狗云",
+        "keyword1": "快狗云",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，快狗云提供基础版、旗舰版与团队版三档订阅，月付与年付可选，年付更划算。流量从 100GB 到 1000GB，设备支持 3 台至 20 台，覆盖普通线路、IPLC 专线与 VIP 高带宽节点，可满足个人追剧、游戏加速与团队办公等不同场景。",
+          "AI_HERO_SUBTITLE": "快狗云，轻松选择你的加速订阅",
+          "AI_HERO_INTRO": "快狗云面向需要稳定海外加速的用户，提供基础版、旗舰版与团队版三档套餐。流量、设备数量、节点类型与支持服务逐级提升，帮助你在预算与使用需求之间找到合适方案。",
+          "AI_VISUAL_TITLE": "快狗云套餐速览",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖不同流量与设备需求",
+          "AI_HIGHLIGHT_2": "年付价格更优，节省长期使用成本",
+          "AI_HIGHLIGHT_3": "IPLC 专线与 VIP 节点可选",
+          "AI_FEATURES_TITLE": "核心特点",
+          "AI_FEATURES_INTRO": "从套餐、设备与订阅周期三个角度了解快狗云。",
+          "AI_FEATURE_TITLE_1": "按需选择套餐",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按月付或年付灵活订阅，年付享更低月均价格。",
+          "AI_FEATURE_TITLE_2": "设备数量匹配场景",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台，适合个人、家庭或小型团队使用。",
+          "AI_FEATURE_TITLE_3": "订阅周期自主决定",
+          "AI_FEATURE_TEXT_3": "月付适合短期体验，年付适合长期稳定使用，团队版还可按企业需求定制路由与专属服务。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据你的设备类型选择合适的客户端，并参照客户端文档完成订阅配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "快狗云提供三档套餐，流量、设备数与节点权益逐级提升。基础版适合轻度使用，旗舰版兼顾流媒体与游戏加速，团队版满足多人多设备需求。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_GUIDE_INTRO": "选择服务、确认套餐适配，并依照客户端文档配置订阅。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据每月流量、同时在线设备数与节点需求，从基础版、旗舰版或团队版中选定套餐。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所选套餐的流量额度、设备限制与支持的客户端类型，确保满足当前使用场景。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "下载适合你设备的客户端，依照客户端文档导入订阅信息，完成后即可使用加速服务。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "快狗云套餐的流量用完后怎么办？",
+          "AI_FAQ_ANSWER_1": "当月流量耗尽后，可升级套餐或等待下个计费周期重置。建议根据日常用量选择基础版、旗舰版或团队版，避免频繁补充。",
+          "AI_FAQ_QUESTION_2": "不同套餐支持的设备数量如何理解？",
+          "AI_FAQ_ANSWER_2": "设备数量指同一时间可在线使用的终端数。基础版支持 3 台，旗舰版 5 台，团队版 20 台。手机、电脑、平板等均计入设备数。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按自然月计费，灵活但月均价格较高；年付一次性支付全年费用，月均成本更低。基础版年付 150 元，旗舰版 350 元，团队版 850 元。",
+          "AI_FAQ_QUESTION_4": "快狗云支持哪些客户端？",
+          "AI_FAQ_ANSWER_4": "快狗云兼容常见的代理客户端，具体支持列表可查看客户端文档。不同设备推荐使用对应的客户端版本，以获取更稳定的连接体验。",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版的主要区别是什么？",
+          "AI_FAQ_ANSWER_5": "旗舰版提供 300GB 流量、5 台设备、IPLC 专线与流媒体解锁；团队版提升至 1000GB、20 台设备、VIP 高带宽节点，并可定制企业路由。",
+          "AI_CLOSING_TITLE": "开始使用快狗云",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选择套餐，即可完成订阅并配置客户端。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ahvtahe.cn",
+    "host": "ahvtahe.cn"
+  },
+  "file_hashes": {
+    "index.html": "087ae4cb2787c33f2b97e3b2475d38b68e596add884c73c00fd07ec8aeaac2ce",
+    "sitemap.xml": "de9a42568932d900b8abe5c4763e89f83a1f28bc289723e447a351a0180d7e69",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d64ade6c8d493d079ad421192b7f97dabe7eccca8a1c1ddda8bef959247a2901",
+    "robots.txt": "b532927eb338c731020febacfcf0232ef79877807b354514046c73f183ca6c44",
+    "218ffc723498f669273e8f1f19964cc3.txt": "e20a8d08b5b288dde0d096421bcaa3627d85a98a13779d2f94a341b6fd5ba4ed"
+  },
+  "revision": "905581e6ddf17b38df69837b8bb277aae388d2f726cae2a44c5d910a7d4a24eb"
+}
